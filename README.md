@@ -39,4 +39,4 @@ This is a personal project, but if you'd like to contribute or suggest improveme
 
 ## Author  
 
-* El Hacen Mahmoud(https://ElhacenMahmoud.github.io)
+* El Hacen Mahmoud(https://github.com/ElhacenMahmoud/)
